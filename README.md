@@ -1,4 +1,4 @@
-This is a simple game named as alien_invasion.
+This is a simple game named as alien_invasion. This game is done using pygame.
 
 You can play the game by running main.py.
 
